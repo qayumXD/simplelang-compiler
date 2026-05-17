@@ -1,0 +1,79 @@
+# Compiled Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+bin/
+build/
+dist/
+target/
+out/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle/
+gradle/
+
+# Maven
+.m2/
+pom.xml.tag
+pom.xml.release-backup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+.directory
+
+# Project specific
+output/
+*.puml
+*.txt
+!README.txt
+!QUICK_START.txt
+!GUI_QUICK_REFERENCE.txt
+!DELIVERABLES.txt
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
+
+# Node modules (if any)
+node_modules/
+npm-debug.log
+
+# Python cache (if any)
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Lock files (optional)
+# package-lock.json
+# yarn.lock
