@@ -25,6 +25,18 @@ Detailed guide to understanding and extending the SimpleLang compiler implementa
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🏗️ Architecture Overview
 
 ### Component Diagram
